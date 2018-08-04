@@ -1,0 +1,14 @@
+
+ Financial Analysis for XYZ Company 
+
+ ======================================================= 
+
+ Total Months: 86 
+
+ Total: $ 38382578.0 
+
+ Average Change: $ 7803 
+
+ Greatest Increase in Profits: Oct-13 ($3661389.0) 
+ 
+ Greatest Decrease in Profits: Mar-12 ($-2843964.0) 
